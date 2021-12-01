@@ -1,3 +1,5 @@
+mod day1;
+
 fn main() {
     println!("");
 
@@ -5,4 +7,6 @@ fn main() {
     println!("Author: @PedroRoweder");
 
     println!("");
+
+    day1::part1();
 }
